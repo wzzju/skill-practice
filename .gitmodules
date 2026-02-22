@@ -1,3 +1,6 @@
+[submodule "skills"]
+	path = anthropics/skills
+	url = https://github.com/anthropics/skills.git
 [submodule "makepad-skills"]
 	path = makepad-skills
 	url = https://github.com/ZhangHanDong/makepad-skills.git
@@ -13,6 +16,3 @@
 [submodule "superpowers"]
 	path = superpowers
 	url = https://github.com/obra/superpowers
-[submodule "skills"]
-	path = anthropics/skills
-	url = https://github.com/anthropics/skills.git
