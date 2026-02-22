@@ -14,5 +14,5 @@
 	path = superpowers
 	url = https://github.com/obra/superpowers
 [submodule "skills"]
-	path = skills
+	path = anthropics/skills
 	url = https://github.com/anthropics/skills.git
