@@ -1,0 +1,18 @@
+[submodule "makepad-skills"]
+	path = makepad-skills
+	url = https://github.com/ZhangHanDong/makepad-skills.git
+[submodule "obsidian-skills"]
+	path = obsidian-skills
+	url = https://github.com/kepano/obsidian-skills
+[submodule "planning-with-files"]
+	path = planning-with-files
+	url = https://github.com/OthmanAdi/planning-with-files.git
+[submodule "rust-skills"]
+	path = rust-skills
+	url = https://github.com/actionbook/rust-skills.git
+[submodule "superpowers"]
+	path = superpowers
+	url = https://github.com/obra/superpowers
+[submodule "skills"]
+	path = skills
+	url = https://github.com/anthropics/skills.git
